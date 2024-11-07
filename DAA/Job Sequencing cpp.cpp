@@ -63,3 +63,13 @@ int main() {
 
     return 0;
 }
+
+// Enter the number of jobs: 5
+// Enter job ID, deadline, and profit for each job:
+// Job 1: 1 2 100
+// Job 2: 2 1 19
+// Job 3: 3 2 27
+// Job 4: 4 1 25
+// Job 5: 5 3 15
+// Following is the maximum profit sequence of jobs:
+// Job 3 Job 1 Job 5 
