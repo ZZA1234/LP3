@@ -48,3 +48,23 @@ if __name__ == "__main__":
 
     # Perform job sequencing
     job_sequencing(jobs, n)
+
+# Enter the number of jobs: 5
+# Enter job ID, deadline, and profit for each job:
+# Job 1 ID: 1
+# Job 1 Deadline: 2
+# Job 1 Profit: 100
+# Job 2 ID: 2
+# Job 2 Deadline: 1
+# Job 2 Profit: 19
+# Job 3 ID: 3
+# Job 3 Deadline: 2
+# Job 3 Profit: 27
+# Job 4 ID: 4
+# Job 4 Deadline: 1
+# Job 4 Profit: 25
+# Job 5 ID: 5
+# Job 5 Deadline: 3
+# Job 5 Profit: 15
+# Following is the maximum profit sequence of jobs:
+# Job 3 Job 1 Job 5 
