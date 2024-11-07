@@ -24,3 +24,9 @@ if __name__ == '__main__':
     print("Steps:", fibonacci_iter(n)[1])
     print("Recursive:", fibonacci_recur(n)[0])
     print("Steps:", fibonacci_recur(n)[1])
+
+# Enter a number: 5
+# Iterative: 5
+# Steps: 5
+# Recursive: 5
+# Steps: 15
