@@ -24,3 +24,21 @@ if __name__ == "__main__":
         arr.append(Item(profit, weight))
     w = int(input("Enter capacity of knapsack-\n"))
     print("Maximum value in knapsack: ", fractionalKnapsack(w, arr))
+
+# Enter number of items-
+# 3
+# Enter profit of item 1-
+# 60
+# Enter weight of item 1-
+# 10
+# Enter profit of item 2-
+# 100
+# Enter weight of item 2-
+# 20
+# Enter profit of item 3-
+# 120
+# Enter weight of item 3-
+# 30
+# Enter capacity of knapsack-
+# 50
+# Maximum value in knapsack:  240.0
