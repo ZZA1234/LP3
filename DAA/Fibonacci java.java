@@ -78,3 +78,9 @@ public class FibonacciCalculator {
         scanner.close();
     }
 }
+
+// Enter a number: 5
+// Iterative Fibonacci number: 5
+// Iterative steps: 5
+// Recursive Fibonacci number: 5
+// Recursive steps: 15
